@@ -37,7 +37,7 @@ function App() {
                   });
               }}
             >
-              Click to see
+              Click to see by <h3>MinkoStas</h3>
             </a>
           </p>
           {loading && <div className="App-api-response">Loading...</div>}
